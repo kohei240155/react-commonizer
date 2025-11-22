@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-react-commonizer",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "description": "React commonization assistant ESLint rules",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "react"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0"
+  }
+}
